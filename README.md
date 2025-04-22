@@ -1,9 +1,15 @@
 # Python Finance Automation
 
+![Simple Finance App _ Streamlit](https://github.com/user-attachments/assets/06d052b9-4c5c-495c-978b-85d20edb5901)
+
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32.0-FF4B4B.svg)](https://streamlit.io)
 [![Pandas](https://img.shields.io/badge/Pandas-2.2.0-150458.svg)](https://pandas.pydata.org)
 [![Plotly](https://img.shields.io/badge/Plotly-5.18.0-3F4F75.svg)](https://plotly.com)
+
+![Simple Finance App _ Streamlit · 11 43pm · 04-22](https://github.com/user-attachments/assets/992de30b-8d92-474a-87ef-fd36454cacef)
+
+![Simple Finance App _ Streamlit · 11 43pm · 04-22 (1)](https://github.com/user-attachments/assets/4f8f882d-4688-4076-a225-98c8bc3f85df)
 
 A personal finance automation tool that helps you analyse bank statements, categorise transactions, and visualise spending patterns.
 
